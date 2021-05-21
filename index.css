@@ -1,0 +1,15 @@
+.jumbotron {
+  background-color: #f4511e; /* Orange */
+  color: #ffffff;
+  text-align: center;
+}
+
+h1 {
+
+font-size: 50px;
+
+}
+
+.container-fluid {
+  padding: 60px 50px;
+}
